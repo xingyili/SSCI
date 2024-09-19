@@ -1,6 +1,6 @@
 ## SSCI
 
-This repo contains the implementation of the model proposed in `SSCI: self-supervised deep learning improves network structure for cancer driver gene identification`
+This repo contains the implementation of the model proposed in `SSCI: improvement of network structure based self-supervised deep learning for cancer driver gene identification`
 
 ![overview](./figure/overview.jpg)
 
